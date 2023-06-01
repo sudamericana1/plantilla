@@ -1,0 +1,181 @@
+<div class="container-fluid">
+    <div class="row border-top px-xl-5">
+        <div class="col-xs-2 col-md-2">
+            <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0"><img id="6819163" src="https://americana.test.instructure.com/courses/31233/files/6819163/preview" alt="logo americana.png" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819163" data-api-returntype="File" /><img id="6819158" style="margin-left: 5rem; padding-left: 2rem;" src="https://americana.test.instructure.com/courses/31233/files/6819173/preview" alt="slider-PG.png" width="165" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819173" data-api-returntype="File" />
+                <div class="navbar-nav py-0"><a class="nav-item nav-link " style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/31233/pages/inicio" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/inicio" data-api-returntype="Page">Inicio</a> <a class="nav-item nav-link active" style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/31233/pages/introduccion" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/introduccion" data-api-returntype="Page">Introducci&oacute;n</a> <a class="nav-item nav-link" style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/31233/announcements">Anuncios</a> <a class="nav-item nav-link" style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/31233/discussion_topics" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/discussion_topics" data-api-returntype="[Discussion]">Foros</a>
+                    <div id="menu_desplegable2">
+                        <ul>
+                            <li><a class="nav-item nav-link" style="text-decoration: auto;" href="#">Unidades</a>
+                                <ul style="padding-top: 1rem;">
+                                    <li><a style="color: white;" title="Unidad i-Parte 1" href="https://americana.test.instructure.com/courses/31233/pages/unidad-i" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/unidad-i" data-api-returntype="Page">Unidad 1</a></li>
+                                    <li><a style="color: white;" title="Unidad ii-Parte 1" href="https://americana.test.instructure.com/courses/31233/pages/unidad-ii-" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/unidad-ii-" data-api-returntype="Page">Unidad 2</a></li>
+                                    <li><a style="color: white;" title="Unidad iii-Parte 1" href="https://americana.test.instructure.com/courses/31233/pages/unidad-iii-" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/unidad-iii-" data-api-returntype="Page">Unidad 3</a></li>
+                                    <li><a style="color: white;" title="Unidad iv-Parte 1" href="https://americana.test.instructure.com/courses/31233/pages/unidad-iv-" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/unidad-iv-" data-api-returntype="Page">Unidad 4</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <a class="nav-item nav-link" style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/31233/pages/cierre" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/cierre" data-api-returntype="Page">Cierre</a>
+                </div>
+            </nav>
+        </div>
+    </div>
+</div>
+<div class="container-fluid page-header">
+    <div class="container">
+        <div class="d-flex flex-column justify-content-center" style="min-height: 300px;">
+            <h3 class="display-4 text-white1 text-uppercase"><img id="6819129" src="https://americana.test.instructure.com/courses/31233/files/6819171/preview" alt="page-header.jpg" width="1525" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819171" data-api-returntype="File" />Universidad Americana</h3>
+        </div>
+    </div>
+</div>
+<div class="content-box">
+    <div class="grid-row">
+        <div class="col-xs-6 col-md-6 made_titulo">
+            <h1 style="padding-left: 30px;">COMUNICACI&Oacute;N CORPORATIVA II</h1>
+        </div>
+        <div class="col-xs-6 col-md-6 made_titulo">
+            <h4 style="padding-right: 30px;"><strong>Introducci&oacute;n</strong></h4>
+        </div>
+    </div>
+</div>
+<div class="ua-theme">
+    <div class="container caja-intro">
+        <div class="row pt-3 pb-3">
+            <div class="desc-intro col-sm-12">
+                <div class="caja-titulo">
+                    <h2>Presentaci&oacute;n</h2>
+                </div>
+                <div class="caja-desc">
+                    <p style="text-align: justify;">Entender la importancia de una adecuada y fluida comunicaci&oacute;n durante los procesos de creaci&oacute;n de una campa&ntilde;a publicitaria o sencillamente, encargarse de la trayectoria de una empresa y hacer conocer su identidad, la cultura que se vive en su interior, su identidad, cualidades que se vuelven caracter&iacute;sticas propias y, por &uacute;ltimo, su imagen, la cual es la figuraci&oacute;n del p&uacute;blico (en general) que se tiene sobre un ente.</p>
+                    <p style="text-align: justify;">La comunicaci&oacute;n corporativa asume un rol fundamental que ayuda a que todo cuanto el ente o empresa desee comunicar, lo haga sin alejarse de la cultura y principios de la misma, teniendo en cuenta la idiosincrasia y cultura de su p&uacute;blico o ambiente donde se desenvuelven.</p>
+                    <p style="text-align: justify;">La asignatura se divide en cuatro unidades de aprendizaje, cada unidad se compone de sus recursos de aprendizaje discriminados en lecturas de an&aacute;lisis b&aacute;sicas y complementarias, as&iacute; como tambi&eacute;n de recursos audiovisuales que te permitir&aacute;n puntualizar todos los conceptos abordados en las unidades.</p>
+                    <p style="text-align: justify;">Las actividades calificables por su parte cumplen el rol de evaluar tu avance acad&eacute;mico en cada unidad, encontrar&aacute;s tareas de diferentes tipos: en l&iacute;nea, de selecci&oacute;n m&uacute;ltiple, de resoluci&oacute;n individual y actividades grupales, inclusive. Cada actividad ir&aacute; acompa&ntilde;ada de su r&uacute;brica de calificaci&oacute;n la cual te permitir&aacute; conocer los criterios que se considerar&aacute;n para la puntuaci&oacute;n de tus tareas.</p>
+                    <p style="text-align: justify;">Como evaluaciones tienes Pruebas parciales y Finales, conocer&aacute;s las fechas de tus ex&aacute;menes consultando tu calendario en plataforma.</p>
+                    <p style="text-align: justify;">Recuerda que tu gu&iacute;a y referente durante el recorrido de la asignatura es tu Docente tutor, para entrar en contacto con el cuentas con la mensajer&iacute;a interna en plataforma.</p>
+                    <p style="text-align: justify;">Antes de iniciar el cursado regular es importante que realice la siguiente&nbsp;&nbsp;<a class="btn btn-primary my-2" style="color: black;" title="Evaluaci&oacute;n Diagn&oacute;stica" href="https://americana.instructure.com/courses/31233/quizzes/322236" target="_blank" rel="noopener" data-api-endpoint="https://americana.instructure.com/api/v1/courses/31233/quizzes/322236" data-api-returntype="Quiz" data-darkreader-inline-color=""><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Evaluaci&oacute;n Diagn&oacute;stica</span></span></a>, que permitir&aacute; medir los conocimientos previos con los que usted&nbsp;llega a esta materia.</p>
+                    <p style="text-align: center;"><iframe src="//player.vimeo.com/video/363922927?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" width="583" height="480" allowfullscreen="allowfullscreen"></iframe></p>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="container">
+        <div class="row mt-3 mb-3">
+            <div class="col-md-7 pt-3 pb-3" data-darkreader-inline-bgimage="" data-darkreader-inline-bgcolor="">
+                <h2>&iquest;Qu&eacute; veremos en la asignatura?</h2>
+                <p style="text-align: justify;">Los invito a ver el <a class="instructure_file_link instructure_scribd_file" title="4.Comunicaci&oacute;n Corporativa II (2).pdf" href="https://americana.test.instructure.com/courses/31233/files/6500561/download?wrap=1" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6500561" data-api-returntype="File">Programa de estudio</a> y el <a class="btn btn-primary my-2" style="color: black; border: 2px solid;" title="Calendario" href="https://americana.test.instructure.com/courses/31233/pages/calendario" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/calendario" data-api-returntype="Page"><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Calendario del m&oacute;dulo</span></span></a> &nbsp;para que conozcan las unidades de aprendizaje que desarrollaremos, as&iacute; como la bibliograf&iacute;a utilizada en la confecci&oacute;n de esta clase y el sistema de evaluaci&oacute;n que aplicaremos y tambi&eacute;n ponemos a disposici&oacute;n los siguientes <a title="Documentos Institucionales" href="https://americana.instructure.com/courses/31233/pages/documentos-institucionales" data-api-endpoint="https://americana.instructure.com/api/v1/courses/31233/pages/documentos-institucionales" data-api-returntype="Page">Documentos</a>.</p>
+                <p style="text-align: justify;">Desde ya, les sugiero que utilicen el Calendario que ofrece la plataforma CANVAS para planificar sus propias actividades en correspondencia con la definidas en el curso.</p>
+            </div>
+            <figure class="col-md-5 pl-0 pr-0"><img src="https://americana.test.instructure.com/courses/31233/files/6500432/download?wrap=1" alt="" data-decorative="true" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6500432" data-api-returntype="File" /></figure>
+        </div>
+        <div>
+            <div id="header-carousel" class="carousel slide carousel-fade" data-ride="carousel">
+                <div class="carousel-inner">
+                    <div class="carousel-item active" style="min-height: 300px;"><img id="6819157" src="https://americana.test.instructure.com/courses/31233/files/6819183/preview" alt="books-gef7da40eb_1280.jpg" width="1150" height="1063" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819183" data-api-returntype="File" /><br />
+                        <div class="carousel-caption d-flex align-items-center justify-content-center">
+                            <div style="margin-top: -13rem; padding: 5rem;">
+                                <h1 style="text-align: center;">&iquest;Como ser&aacute; el recorrido?</h1>
+                                <p class="uatm1_tamFuente" style="text-align: justify;">En el per&iacute;odo que curse la asignatura debe acceder a cada unidad, estudiar los recursos y realizar las actividades calificables y no calificables que son de car&aacute;cter obligatorio; las &uacute;ltimas te servir&aacute;n para obtener una retroalimentaci&oacute;n sobre c&oacute;mo va tu proceso de aprendizaje.<strong>&nbsp;</strong></p>
+                                <p class="uatm1_tamFuente" style="text-align: justify;">Los&nbsp;<strong>recursos de aprendizaje</strong>&nbsp;constituyen&nbsp;<strong>materiales de lectura&nbsp;</strong>que posibilitan el acceso a otros, mediante hiperv&iacute;nculos y videos que le permitir&aacute;n complementar el conocimiento transmitido en la unidad o clase virtual. Al finalizar el an&aacute;lisis de cada recurso tendr&aacute; a su disposici&oacute;n actividades de autoevaluaci&oacute;n.</p>
+                                <p class="uatm1_tamFuente" style="text-align: justify;">Las<strong>&nbsp;actividades evaluativas</strong>, por su parte, se utilizan para evaluar el nivel de aprendizaje adquirido en cada unidad. Las&nbsp;<strong>actividades</strong>&nbsp;se plantear&aacute;n de manera&nbsp;<strong>individual</strong>&nbsp;o&nbsp;<strong>grupal</strong>&nbsp;e inclusive ambas a la vez. La tipolog&iacute;a que tendr&aacute; disponible en su mayor&iacute;a son Foros para el debate y tareas. En la orientaci&oacute;n de las mismas, se le compartir&aacute; los&nbsp;<strong>indicadores</strong>&nbsp;o&nbsp;<strong>r&uacute;bricas</strong>&nbsp;que el profesor tendr&aacute; en cuenta para emitir la nota. En el apartado: <a class="btn btn-primary my-2" style="color: white;" title="M&eacute;todo de calificaci&oacute;n" href="https://americana.instructure.com/courses/31233/pages/metodo-de-calificacion" target="_new" data-api-endpoint="https://americana.instructure.com/api/v1/courses/31233/pages/metodo-de-calificacion" data-api-returntype="Page" data-darkreader-inline-color=""><span style="vertical-align: inherit;">M&eacute;todo de calificaci&oacute;n</span></a>&nbsp;tiene explicitado c&oacute;mo ser&aacute;n emitidas las notas en la plataforma.</p>
+                                <p class="uatm1_tamFuente" style="text-align: justify;">Se aplicar&aacute;n 2 (dos) ex&aacute;menes parciales, (1) un examen de recuperaci&oacute;n de uno de los parciales, un examen final y un examen extraordinario.</p>
+                                <p class="uatm1_tamFuente" style="text-align: justify;">Al finalizar toda la materia, en el&nbsp;<strong>Cierre</strong>&nbsp;de la misma, deber&aacute; realizar una&nbsp;<strong>encuesta an&oacute;nima</strong>&nbsp;que permitir&aacute; evaluar:&nbsp;<em>el contenido, la plataforma y al docente</em>. Por favor, participe en la misma,&nbsp;<strong>Juntos crecemos</strong>.</p>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="container-fluid py-5">
+            <div class="container ">
+                <div class="text-center mb-5">
+                    <h2><span style="font-size: 24pt;">&iquest;Como ser&aacute; el recorrido?</span></h2>
+                </div>
+                <div class="row">
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="rounded overflow-hidden mb-2"><img class="img-fluid" src="img/course-1.jpg" alt="" />
+                            <div class="bg-secondary p-4">
+                                <h2>Bibliograf&iacute;a b&aacute;sica y complementaria</h2>
+                            </div>
+                            <div class="bg-secondary p-4"><img id="6819130" style="height: 15rem; width: 27rem;" src="https://americana.test.instructure.com/courses/31233/files/6819172/preview" alt="registration.jpg" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819172" data-api-returntype="File" /></div>
+                            <div class="bg-secondary p-4" style="height: 21.5rem;">
+                                <div class="border-top mt-4 pt-4">
+                                    <div class="d-flex justify-content-between">
+                                        <p style="text-align: justify;">La bibliograf&iacute;a b&aacute;sica y complementaria asociados a cada unidad, los encontrar&aacute; disponible para descargar en la parte inferior de los materiales de lectura a los cuales acceder&aacute;n en la clase.&nbsp;</p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="rounded overflow-hidden mb-2"><img class="img-fluid" src="img/course-2.jpg" alt="" />
+                            <div class="bg-secondary p-4">
+                                <h2>Comunicaci&oacute;n y apoyo del Docente</h2>
+                            </div>
+                            <div class="bg-secondary p-4"><img id="6819155" style="width: 25rem; margin-left: 2rem;" src="https://americana.test.instructure.com/courses/31233/files/6819170/preview" alt="online-g449012096_640.jpg" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819170" data-api-returntype="File" /></div>
+                            <div class="bg-secondary p-4" style="height: 21.5rem;">
+                                <div class="border-top mt-4 pt-4">
+                                    <div>
+                                        <p style="text-align: justify;">En la plataforma se cuenta con varias v&iacute;as para comunicarse con el Docente y el Tutor, puede enviar un mensaje privado a trav&eacute;s de la mensajer&iacute;a interna de la plataforma, o dejar su consulta en el Chat o los Anuncios que con frecuencia se crear&aacute;n para mantenerlo comunicado de los avances dentro de la materia.</p>
+                                        <p style="text-align: justify;"><span>Otra v&iacute;a que puede utilizar para contactar es escribiendo al correo: atenci&oacute;n.alumno@americana.edu.py o llamando al Tel&eacute;fono: (021) 729 4900, tambien v&iacute;a WhatsApp: 0217294900.</span></p>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="rounded overflow-hidden mb-2"><img class="img-fluid" src="img/course-3.jpg" alt="" />
+                            <div class="bg-secondary p-4">
+                                <h2>Netiqueta</h2>
+                            </div>
+                            <div class="bg-secondary p-4"><img id="6819164" src="https://americana.test.instructure.com/courses/31233/files/6819164/preview" alt="carousel-1-1.jpg" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819164" data-api-returntype="File" /></div>
+                            <div class="bg-secondary p-4" style="height: 43.5rem;">
+                                <div class="border-top  pt-4">
+                                    <div>
+                                        <p style="text-align: justify;">En nuestro medio, (Internet) es un&nbsp;<strong>conjunto de comportamientos</strong>&nbsp;o&nbsp;<strong>buenas formas</strong>&nbsp;de un usuario en un grupo, dentro de una lista de correo, un foro de discusiones o al usar el correo electr&oacute;nico. Por extensi&oacute;n se utiliza tambi&eacute;n para referirse al conjunto de normas de comportamiento general en Internet. Dentro de la plataforma CANVAS aspiramos a:</p>
+                                        <ul class="uatm1_tamFuente">
+                                            <li class="uatm1_tamFuente">Seguir en la Red los mismos est&aacute;ndares de comportamiento que utiliza en la vida real.</li>
+                                            <li class="uatm1_tamFuente">Respetar el tiempo y ancho de banda de los dem&aacute;s.</li>
+                                            <li class="uatm1_tamFuente">Poner de su parte, v&eacute;ase muy bien en l&iacute;nea.</li>
+                                            <li class="uatm1_tamFuente">Compartir el conocimiento de los expertos.</li>
+                                            <li class="uatm1_tamFuente">Respetar la privacidad de los dem&aacute;s.</li>
+                                            <li class="uatm1_tamFuente">Excusar los errores de otros.</li>
+                                            <li class="uatm1_tamFuente">Utilizar el vocabulario adecuado dentro de la plataforma, recuerde que se encuentra en un espacio educativo.</li>
+                                            <li class="uatm1_tamFuente">Respetar las opiniones de los compa&ntilde;eros y tutores.</li>
+                                            <li class="uatm1_tamFuente">Escribir de manera adecuada sus inquietudes, siempre en el marco del respecto.</li>
+                                            <li class="uatm1_tamFuente">Mantener un comportamiento adecuado con los tutores.</li>
+                                            <li class="uatm1_tamFuente">No utilizar los textos escritos en may&uacute;scula para reprimir sus frustraciones, se interpreta como si estuviese gritando.</li>
+                                            <li class="uatm1_tamFuente">Utilizar la plataforma Canvas como un espacio educativo, no como recreaci&oacute;n.</li>
+                                        </ul>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-lg-4 col-md-6 mb-4">
+                        <div class="rounded overflow-hidden mb-2"><img class="img-fluid" src="img/course-4.jpg" alt="" />
+                            <div class="bg-secondary p-4">
+                                <h2>Configure su cuenta</h2>
+                            </div>
+                            <div class="bg-secondary p-4" style="height: 62.2rem;"><img id="6819165" src="https://americana.test.instructure.com/courses/31233/files/6819165/preview" alt="about1.jpg" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819165" data-api-returntype="File" /><br />
+                                <div class="bg-secondary p-4">
+                                    <div class="border-top mt-4 pt-4">
+                                        <div>
+                                            <p style="text-align: justify;">En caso que sean nuevos en la plataforma, les pido que antes de comenzar configuren su cuenta con el prop&oacute;sito de conocernos mejor, colocando una foto suya con un corte profesional.</p>
+                                            <p style="text-align: justify;">Acceda al siguiente video tutorial para que aprenda c&oacute;mo hacerlo:</p>
+                                            <p style="text-align: justify;"><iframe src="//player.vimeo.com/video/500617576?title=0&amp;byline=0&amp;portrait=0&amp;color=8dc7dc" width="520" height="320" allowfullscreen="allowfullscreen"></iframe></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer bg-azul">
+        <div class="container">
+            <p>&copy; 2023 Universidad Americana</p>
+        </div>
+    </div>
+</div>

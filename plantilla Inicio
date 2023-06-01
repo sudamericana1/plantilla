@@ -1,0 +1,52 @@
+<div class="  container-fluid">
+    <div class="row border-top px-xl-5" style="padding: 1rem;">
+        <div class="col-xs-2 col-md-2">
+            <nav class="navbar navbar-expand-lg bg-light navbar-light py-3 py-lg-0 px-0"><img id="6819163" src="https://americana.test.instructure.com/courses/31233/files/6819163/preview" alt="logo americana.png" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819163" data-api-returntype="File" /><img id="6819158" style="margin-left: 5rem; padding-left: 2rem;" src="https://americana.test.instructure.com/courses/31233/files/6819173/preview" alt="slider-PG.png" width="165" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819173" data-api-returntype="File" />
+                <div class="navbar-nav py-0"><a class="nav-item nav-link active" style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/30877/pages/inicio" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/30877/pages/inicio" data-api-returntype="Page">Inicio</a> <a class="nav-item nav-link " style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/31233/pages/introduccion" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/introduccion" data-api-returntype="Page">Introducci&oacute;n</a> <a class="nav-item nav-link" style="text-decoration: auto;" href="about.html">Anuncios</a> <a class="nav-item nav-link" style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/31233/discussion_topics" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/discussion_topics" data-api-returntype="[Discussion]">Foros</a>
+                    <div id="menu_desplegable2">
+                        <ul>
+                            <li><a class="nav-item nav-link" style="text-decoration: auto;" href="#">Unidades</a>
+                                <ul>
+                                    <li><a style="color: white;" title="Unidad i-Parte 1" href="https://americana.test.instructure.com/courses/31233/pages/unidad-i" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/unidad-i" data-api-returntype="Page">Unidad 1</a></li>
+                                    <li><a style="color: white;" title="Unidad ii-Parte 1" href="https://americana.test.instructure.com/courses/31233/pages/unidad-ii-" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/unidad-ii-" data-api-returntype="Page">Unidad 2</a></li>
+                                    <li><a style="color: white;" title="Unidad iii-Parte 1" href="https://americana.test.instructure.com/courses/31233/pages/unidad-iii-" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/unidad-iii-" data-api-returntype="Page">Unidad 3</a></li>
+                                    <li><a style="color: white;" title="Unidad iv-Parte 1" href="https://americana.test.instructure.com/courses/31233/pages/unidad-iv-" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/unidad-iv-" data-api-returntype="Page">Unidad 4</a></li>
+                                </ul>
+                            </li>
+                        </ul>
+                    </div>
+                    <a class="nav-item nav-link" style="text-decoration: auto;" href="https://americana.test.instructure.com/courses/31233/pages/cierre" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/cierre" data-api-returntype="Page">Cierre</a>
+                </div>
+            </nav>
+        </div>
+    </div>
+</div>
+<div class="container-fluid p-0 pb-5 mb-5">
+    <div id="header-carousel" class="carousel slide carousel-fade" style="margin: 8px; margin-top: -1rem;" data-ride="carousel">
+        <div class="carousel-inner">
+            <div class="carousel-item active" style="min-height: 300px;"><img id="6819136" src="https://americana.test.instructure.com/courses/31233/files/6819175/preview" alt="carousel-1.jpg" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819175" data-api-returntype="File" /><br />
+                <div class="carousel-caption d-flex align-items-center justify-content-center">
+                    <div class="p-5" style="width: 100%; max-width: 900px;">
+                        <h5 class="text-white text-uppercase mb-md-3">Universidad Americana</h5>
+                        <h1 class="display-3 text-white mb-md-4">Maestr&iacute;a en Educaci&oacute;n y Did&aacute;ctica Universitaria</h1>
+                        <p>&nbsp;</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+<div class="container-fluid py-5" style="border: 2px solid; margin-top: -3rem;">
+    <div class="container py-5">
+        <div>
+            <div class="grid-row">
+                <div class="col-xs-6 col-md-6 made_titulo"><span style="font-family: inherit; font-size: 1.8em; color: var(--darkreader-text--ic-brand-font-color-dark);" data-darkreader-inline-color=""><img id="6819176" src="https://americana.test.instructure.com/courses/31233/files/6819176/preview" alt="about.jpg" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/files/6819176" data-api-returntype="File" /></span></div>
+                <div class="col-xs-6 col-md-6 made_titulo"><span style="font-family: inherit; font-size: 1.8em; color: var(--darkreader-text--ic-brand-font-color-dark);" data-darkreader-inline-color="">Estad&iacute;stica Aplicada a la Educaci&oacute;n</span>
+                    <p style="text-align: justify;">La Estad&iacute;stica como herramienta de uso cada vez m&aacute;s extendido, vinculada a los procesos cient&iacute;ficos y de investigaci&oacute;n, permite manejar adecuadamente las <strong>t&eacute;cnicas</strong> a fin de<strong> analizar informaciones</strong> y encarar<strong> investigaciones</strong> cuantitativas en el campo profesional.&nbsp;En este sentido, este <strong>m&oacute;dulo</strong> se centra en el desarrollo de conocimientos de las principales t&eacute;cnicas de producci&oacute;n, organizaci&oacute;n, resumen, presentaci&oacute;n, exploraci&oacute;n de datos, an&aacute;lisis de datos y muestreo, as&iacute; como las habilidades necesarias que ayudan a entender, encarar y evaluar estudios e investigaci&oacute;n educativa.&nbsp;</p>
+                    <p style="text-align: justify;">&iexcl;Le deseamos una etapa de <em><strong>&eacute;xitos</strong> </em>y <em><strong>satisfacciones</strong>!</em></p>
+                    <a class="btn btn-primary py-md-2 px-md-4 font-weight-semi-bold mt-2" href="https://americana.test.instructure.com/courses/31233/pages/introduccion" data-api-endpoint="https://americana.test.instructure.com/api/v1/courses/31233/pages/introduccion" data-api-returntype="Page">Empecemos</a>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
